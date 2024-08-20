@@ -11,12 +11,12 @@ This project is a **simple blog application** developed using PHP with **Object-
 ## **Install the Project**
 
 ### **1. Download the Project**
--Open your terminal and navigate to the XAMPP folder, then to the htdocs folder.
+- Open your terminal and navigate to the XAMPP folder, then to the htdocs folder.
 ```
 xampp/htdocs/Simple_Blog/
 ```
 - Clone the repository using Git:
-  ``
+  ```
   git clone https://github.com/HussainQursh77/Simple_Blog.git
   ```
 ### **2-Set Up the Database**
