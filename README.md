@@ -14,11 +14,11 @@ This project is a **simple blog application** developed using PHP with **Object-
 
 - Clone the repository using Git:
   ```bash
-  git clone https://github.com/yourusername/simple-php-blog.git
+  git clone https://github.com/yourusername/Simple_Blog.git
   ```
 ### **2-Place the Project Inside the htdocs Folder**
 ```bash
-   xampp/htdocs/simple-php-blog/
+   xampp/htdocs/Simple_Blog/
 ``` 
 ### **3-Set Up the Database**
 - Open phpMyAdmin in your browser and create a new database.
@@ -26,6 +26,6 @@ This project is a **simple blog application** developed using PHP with **Object-
 ### **4-Access the Project from Your Browser**
 - Open your web browser and navigate to the following URL:
 ```
-http://localhost/simple-php-blog/
+http://localhost/Simple_Blog/
 ```
-- You can now use the blog to create, edit, and view posts.
+## **You can now use the blog to create, edit, and view posts.**
