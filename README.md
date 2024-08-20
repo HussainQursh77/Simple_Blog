@@ -21,8 +21,8 @@ This project is a **simple blog application** developed using PHP with **Object-
 - xampp/htdocs/Simple_Blog/
 
 ### **3-Set Up the Database**
-- Open phpMyAdmin in your browser and create a new database.
-- Import the provided SQL file included with the project to create the necessary tables.
+- Open phpMyAdmin in your browser.
+- Use the provided SQL file included with the project  in the "file_create_db" folder to create the database, tables, and required columns.
 ### **4-Access the Project from Your Browser**
 - Open your web browser and navigate to the following URL:
 ```
