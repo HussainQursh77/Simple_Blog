@@ -14,7 +14,7 @@ This project is a **simple blog application** developed using PHP with **Object-
 
 - Clone the repository using Git:
   ```bash
-  git clone https://github.com/yourusername/Simple_Blog.git
+  https://github.com/HussainQursh77/Simple_Blog.git
   ```
 ### **2-Place the Project Inside the htdocs Folder**
 ```bash
