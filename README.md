@@ -12,9 +12,9 @@ This project is a **simple blog application** developed using PHP with **Object-
 
 ### **1. Download the Project**
 - Open your terminal and navigate to the XAMPP folder, then to the htdocs folder.
-```
-xampp/htdocs/Simple_Blog/
-```
+  ```
+  xampp/htdocs/Simple_Blog/
+  ```
 - Clone the repository using Git:
   ```
   git clone https://github.com/HussainQursh77/Simple_Blog.git
@@ -24,7 +24,7 @@ xampp/htdocs/Simple_Blog/
 - Use the provided SQL file included with the project  in the "file_create_db" folder to create the database, tables, and required columns.
 ### **3-Access the Project from Your Browser**
 - Open your web browser and navigate to the following URL:
-```
-http://localhost/Simple_Blog/
-```
+  ```
+  http://localhost/Simple_Blog/
+  ```
 ## **You can now use the blog to create, edit, and view posts.**
