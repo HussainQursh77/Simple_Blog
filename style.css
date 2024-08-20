@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+form label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+form input[type="text"],
+form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+form input[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #5cb85c;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: #4cae4c;
+}
+
+
+.errors {
+    background-color: #f2dede;
+    color: #a94442;
+    padding: 10px;
+    border: 1px solid #ebccd1;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+
+.post-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.post-list li {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 4px;
+}
+
+
+.post-actions {
+    margin-top: 10px;
+}
+
+.button {
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #007bff;
+}
+
+.button.edit {
+    background-color: #f0ad4e;
+}
+.button.view {
+    background-color: #007bff;
+}
+
+.button.delete {
+    background-color: #d9534f;
+}
+
+.button:hover {
+    opacity: 0.8;
+}
+
+
+.meta {
+    font-size: 0.9em;
+    color: #888;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.content {
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+a.button {
+    display: inline-block;
+    margin-top: 20px;
+    text-align: center;
+}
