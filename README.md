@@ -14,12 +14,12 @@ This project is a **simple blog application** developed using PHP with **Object-
 
 - Clone the repository using Git:
   ```bash
-  https://github.com/HussainQursh77/Simple_Blog.git
+  git clone https://github.com/HussainQursh77/Simple_Blog.git
   ```
 ### **2-Place the Project Inside the htdocs Folder**
-```bash
-   xampp/htdocs/Simple_Blog/
-``` 
+
+- xampp/htdocs/Simple_Blog/
+
 ### **3-Set Up the Database**
 - Open phpMyAdmin in your browser and create a new database.
 - Import the provided SQL file included with the project to create the necessary tables.
